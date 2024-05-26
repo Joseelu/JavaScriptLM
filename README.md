@@ -6,7 +6,7 @@ Ejercicios Javascript Lenguaje de marcas.
 
 ## Índice
 
-1. [Ejercicio 2](#calcular-longitud-área-y-volumen)
+1. [Ejercicio 2](#Ejercicio2)
 2. [Ejercicio 3](#seleccionador-de-tipo-de-triángulo)
 3. [Ejercicio 4](#calcular-letra-del-dni)
 4. [Ejercicio 5](#verificador-de-cadena-de-texto)
