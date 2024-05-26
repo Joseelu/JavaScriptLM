@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Calculadora Letra DNI</title>
+<script src="Ejercicio4.js" defer></script>
+</head>
+<body>
+
+<form id="dniForm">
+  <label for="dniNumber">Introduce tu DNI (sin letra):</label><br>
+  <input type="text" id="dniNumber" name="dniNumber" pattern="[0-9]{7,8}" required>
+  <input type="submit" value="Calcular Letra">
+</form>
+
+<div id="dniLetter"></div>
+
+</body>
+</html>
