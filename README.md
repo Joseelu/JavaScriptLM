@@ -1,19 +1,17 @@
 
 
-Ejercicios Javascript Lenguaje de marcas.
-
 # Índice de Ejercicios
 
 ## Índice
 
-1. [Ejercicio 2](#Ejercicio2)
-2. [Ejercicio 3](#seleccionador-de-tipo-de-triángulo)
-3. [Ejercicio 4](#calcular-letra-del-dni)
-4. [Ejercicio 5](#verificador-de-cadena-de-texto)
-5. [Ejercicio 6](#verificador-y-generador-de-palíndromos)
-6. [Ejercicio 7](#división-entera-de-euclides)
-7. [Ejercicio 8](#mcd-de-euclides)
-8. [Ejercicio 9](#nombre-del-mes-indicando-el-número)
+1. [Ejercicio 2](#ejercicio-2)
+2. [Ejercicio 3](#ejercicio-3)
+3. [Ejercicio 4](#ejercicio-4)
+4. [Ejercicio 5](#ejercicio-5)
+5. [Ejercicio 6](#ejercicio-6)
+6. [Ejercicio 7](#ejercicio-7)
+7. [Ejercicio 8](#ejercicio-8)
+8. [Ejercicio 9](#ejercicio-9)
 
 ## Estructura del Proyecto
 
@@ -21,7 +19,7 @@ Ejercicios Javascript Lenguaje de marcas.
 
 ## Ejercicio 2
 
-**Enunciado:** Introduce un número y se realizan unos calculos dando el radio.
+**Enunciado:** Introduce un número y se realizan unos cálculos dando el radio.
 
 **Archivo:** `Ejercicio2.html`
 
@@ -65,4 +63,4 @@ Ejercicios Javascript Lenguaje de marcas.
 
 **Enunciado:** Selecciona el número del Mes y el programa te dice su nombre.
 
-**Archivo:** `ejercicio9.html`
+**Archivo:** `Ejercicio9.html`
