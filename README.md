@@ -23,43 +23,43 @@ Ejercicios Javascript Lenguaje de marcas.
 
 **Enunciado:** Introduce un número y se realizan unos calculos dando el radio.
 
-**Archivo:** `ejercicio2.html`
+**Archivo:** `Ejercicio2.html`
 
 ## Ejercicio 3
 
 **Enunciado:** Introduce los lados del triángulo y el programa te indica el tipo del mismo.
 
-**Archivo:** `ejercicio3.html`
+**Archivo:** `Ejercicio3.html`
 
 ## Ejercicio 4
 
 **Enunciado:** Introduce un número de DNI y el programa te indica la letra del mismo.
 
-**Archivo:** `ejercicio4.html`
+**Archivo:** `Ejercicio4.html`
 
 ## Ejercicio 5
 
 **Enunciado:** Introduce una cadena de texto y el programa te indica si está en mayúsculas, minúsculas o una mezcla de ambos.
 
-**Archivo:** `ejercicio5.html`
+**Archivo:** `Ejercicio5.html`
 
 ## Ejercicio 6
 
 **Enunciado:** Introduce una cadena de texto y el programa te indica si es un palíndromo, de no serlo, lo genera.
 
-**Archivo:** `ejercicio6.html`
+**Archivo:** `Ejercicio6.html`
 
 ## Ejercicio 7
 
 **Enunciado:** Introduce divisor y dividendo, posteriormente el programa te devuelve el cociente y el resto.
 
-**Archivo:** `ejercicio7.html`
+**Archivo:** `Ejercicio7.html`
 
 ## Ejercicio 8
 
 **Enunciado:** Introduce dos números enteros y se te indica el MCD de ambos.
 
-**Archivo:** `ejercicio8.html`
+**Archivo:** `Ejercicio8.html`
 
 ## Ejercicio 9
 
